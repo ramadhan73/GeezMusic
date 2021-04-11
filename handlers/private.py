@@ -22,14 +22,14 @@ Tambahkan saya ke grup Anda dan mainkan musik dengan bebas!**
                         "🛠 Penjelasan Perintah Klik Disini", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/LordUsetbot_Group"
+                        "✨ Group", url="https://t.me/VckyouuBitch"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/Vckyouuu"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Tambahkan ke Grup Anda ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "⚡ Tambahkan Bot Ini Ke Grup Anda ⚡", url="https://t.me/{}?startgroup=true"
                     )]
             ]
         ),
