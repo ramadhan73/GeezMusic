@@ -29,7 +29,7 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
                     )
                  ],[ 
                     InlineKeyboardButton(
-                        "⚡Tambahkan Bot Ini Ke Group Anda⚡", url="https://t.me/GeezMusic?startgroup=true"
+                        "⚡Tambahkan Bot Ini Ke Group Anda⚡", url="https://t.me/{}?startgroup=true"
                     )]
             ]
         ),
