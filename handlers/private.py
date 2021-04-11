@@ -9,9 +9,9 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgQAAx0CTv65QgABBfJlYF6VCrGMm6OJ23AxHmD6qUSWESsAAhoQAAKm8XEeD5nrjz5IJFYeBA")
     await message.reply_text(
-        f"""**Haiiiii {bn} 🎵
+        f"""**Haiiiii Gays {bn} 🎵
 
-Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Jason](https://t.me/VckyouuBitch).
+Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
 
 Tambahkan saya ke grup Anda dan mainkan musik dengan bebas!**
         """,
@@ -19,7 +19,7 @@ Tambahkan saya ke grup Anda dan mainkan musik dengan bebas!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Untuk Pemakain Klik disini", url="https://telegra.ph/text-04-11-2")
+                        "🛠 Penjelasan Perintah Klik Disini", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/LordUsetbot_Group"
