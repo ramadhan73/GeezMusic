@@ -22,7 +22,7 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
                         "🛠 Klik Disini Untuk Penjelasan Printah", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Pemilik", url="https://t.me/Vckyouuu"
+                        "✨ Pemilik", url="https://t.me/VckyouuBitch"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/Vckyouuu"
