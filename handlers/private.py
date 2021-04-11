@@ -13,23 +13,19 @@ async def start(_, message: Message):
 
 Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
 
-Tambahkan saya ke grup Anda dan mainkan musik dengan bebas!**
+Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan lupa invite juga @Candu_Musikk_Asistant dengan bebas!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Penjelasan Perintah Klik Disini", url="https://telegra.ph/text-04-11-2")
+                        "🛠 Untuk Penjelasan Perintah klik Disini", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Group", url="https://t.me/VckyouuBitch"
+                        "✨ Pemilik", url="https://t.me/Vckyouubitch"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/Vckyouuu"
-                    )
-                ],[ 
-                    InlineKeyboardButton(
-                        "⚡ Tambahkan Bot Ini Ke Grup Anda ⚡", url="https://t.me/{}?startgroup=true"
                     )]
             ]
         ),
