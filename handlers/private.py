@@ -13,7 +13,7 @@ async def start(_, message: Message):
 
 Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
 
-Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan lupa invite juga @Candu_Musikk_Asistant dengan bebas!**
+Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan lupa invite juga @GeezMusicAssitant dengan bebas!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
