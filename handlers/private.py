@@ -19,13 +19,17 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Untuk Penjelasan Perintah klik Disini", url="https://telegra.ph/text-04-11-2")
+                        "🛠 Klik Disini Untuk Penjelasan Printah", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Pemilik", url="https://t.me/Vckyouubitch"
+                        "✨ Pemilik", url="https://t.me/Vckyouuu"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/Vckyouuu"
+                    )
+                 ],[ 
+                    InlineKeyboardButton(
+                        "➕ Tambahkan ke Grup Anda ➕", url="https://t.me/GeezMusic?startgroup=true"
                     )]
             ]
         ),
