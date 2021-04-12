@@ -1,8 +1,6 @@
 <h2 align="centre">Music Play Bot 🎵</h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg">
-</p>
+[![Deploy](https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/GeezMusic)
 
 <h3>Requirements 📝</h3>
 
@@ -30,7 +28,6 @@
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
-### Latest Repo [Here](https://github.com/Infinity-Bots/GroupMusicPlayerBot)
 
 ### Credits
 
