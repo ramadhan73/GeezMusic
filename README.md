@@ -5,9 +5,9 @@
 #### For all in group
 
 - `/play` - reply to youtube url or song file to play song
-- - `/ytp <song name>` - play song without youtube url or song file (best method)
+- `/ytp <song name>` - play song without youtube url or song file (best method)
 - `/song <song name>` - download songs you want quickly
-- - `/search <query>` - search videos on youtube with details
+- `/search <query>` - search videos on youtube with details
 
 #### Admins only
 - `/pause` - pause song play
@@ -25,9 +25,3 @@ Use [@StringGeezBot](https://t.me/StringGeezBot) to get pyrogram string session
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Geez Music](https://t.me/Vckyouuu)
-- 
-
-
-
-
-
