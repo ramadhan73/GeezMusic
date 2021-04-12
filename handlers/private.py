@@ -29,7 +29,9 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
                     )
                  ],[ 
                     InlineKeyboardButton(
-                        "⚡Tambahkan Bot Ini Ke Group Anda⚡", url="https://t.me/{}?startgroup=true"
+                                text="Masukan Bot Dan Assistant Ke Grup Anda!",
+                                url="t.me/{}?startgroup=true".format(
+                                    context.bot.username
                     )]
             ]
         ),
