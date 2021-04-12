@@ -21,10 +21,10 @@ Berlaku Untuk Seluruh Admin :
 
 
 
-Use [@StringGeezBot](https://t.me/StringGeezBot) to get pyrogram string session
+Use [@StringGeezBot](https://t.me/StringGeezBot) untuk mendapatkan sesi string pyrogram
 
 
-### Credits
+### Kredit
 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
