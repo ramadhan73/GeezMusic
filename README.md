@@ -1,5 +1,9 @@
 <h2 align="centre">Music Play Bot 🎵</h2>
-[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/vckyou/GeezMusic.git)
+
+<p align="center">
+  <img src="https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg">
+</p>
+
 <h3>Requirements 📝</h3>
 
 - FFmpeg
@@ -20,9 +24,7 @@
 - `/skip` - play next song
 - `/end` - stop music play
 
-### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/GeezMusic)
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
