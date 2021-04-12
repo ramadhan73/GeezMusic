@@ -9,11 +9,11 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgEAAxkBAAEJRNZgc4GPPxQ9q7CO5m2Ft9htxNuFHwACDwEAAlEpDTmkePNDDnym2x4E")
     await message.reply_text(
-        f"""**Haiiiii Aku. {bn} 🎵
+        f"""**Hai Aku. {bn} 🎵
 
 Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
 
-Tambahkan saya ke grup Anda dengan cara menambahkan Bot @SongGeezBot Ini,Lalu jangan lupa invite juga @GeezMusicAssitant, selamat bersenang senang !**
+Note : Gunakan Bot Ini Dengan Bijak, Jika Terjadi Kendala Silahkan Hubungi [Vckyyy](https://t.me/VckyouuBitch).
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -22,14 +22,10 @@ Tambahkan saya ke grup Anda dengan cara menambahkan Bot @SongGeezBot Ini,Lalu ja
                         "🛠 Klik Disini Untuk Penjelasan Printah", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Pemilik", url="https://t.me/VckyouuBitch"
+                        "✨ Group", url="https://t.me/LordUserbot_Group"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Vckyouuu"
-                    )
-                 ],[ 
-                    InlineKeyboardButton(
-                        "⚡Sedang Rusak Haha⚡", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "🔊 Channel Info", url="https://t.me/Vckyouuu"
                     )]
             ]
         ),
@@ -43,7 +39,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Vckyouuu")
+                        "🔊 Channel Info", url="https://t.me/Vckyouuu")
                 ]
             ]
         )
