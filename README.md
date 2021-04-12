@@ -2,18 +2,22 @@
 # Geez Music Player
 
 ### Commands 🛠
-#### For all in group
+#### Berlaku Untuk Seluruh Member :
 
-- `/play` - reply to youtube url or song file to play song
-- `/ytp <song name>` - play song without youtube url or song file (best method)
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
 
-#### Admins only
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
+- `/play` - balas url youtube atau file lagu untuk memutar lagu
+- `/ytp` <nama lagu> - memutar lagu tanpa url youtube atau file lagu (metode terbaik)
+- `/song`  <nama lagu> - unduh lagu yang Anda inginkan dengan cepat
+- `/search` <query> - cari video di youtube dengan detail
+
+
+Berlaku Untuk Seluruh Admin :
+
+
+- `/pause` - jeda pemutaran lagu
+- `/resume` - melanjutkan pemutaran lagu
+- `/skip` - putar lagu berikutnya
+- `/end` - menghentikan pemutaran musik
 
 
 
