@@ -32,7 +32,8 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
                         "Masukan Bot Dan Assistant Ke Grup Anda!",
                          url="t.me/{}?startgroup=true".format(
                                 context.bot.username
-                    )]
+                    )
+                ],
             ]
         ),
      disable_web_page_preview=True
