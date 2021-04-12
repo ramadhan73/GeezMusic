@@ -1,7 +1,5 @@
 <h2 align="centre">Music Play Bot 🎵</h2>
-
-[![Deploy](https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/GeezMusic)
-
+[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/vckyou/GeezMusic.git)
 <h3>Requirements 📝</h3>
 
 - FFmpeg
