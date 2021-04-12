@@ -9,11 +9,11 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgEAAxkBAAEJRNZgc4GPPxQ9q7CO5m2Ft9htxNuFHwACDwEAAlEpDTmkePNDDnym2x4E")
     await message.reply_text(
-        f"""**Haiiiii Gays {bn} 🎵
+        f"""**Haiiiii Aku. {bn} 🎵
 
 Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
 
-Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan lupa invite juga @GeezMusicAssitant dan nikmati musik yang kami mulai dengan bebas!**
+Tambahkan saya ke grup Anda dengan cara menambahkan Bot @SongGeezBot Ini,Lalu jangan lupa invite juga @GeezMusicAssitant, selamat bersenang senang !**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -29,11 +29,8 @@ Tambahkan saya ke grup Anda dengan cara salin username saya lalu invite, jangan 
                     )
                  ],[ 
                     InlineKeyboardButton(
-                        "Masukan Bot Dan Assistant Ke Grup Anda!",
-                         url="t.me/{}?startgroup=true".format(
-                                context.bot.username
-                    )
-                ],
+                        "⚡Sedang Rusak Haha⚡", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                    )]
             ]
         ),
      disable_web_page_preview=True
