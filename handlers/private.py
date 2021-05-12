@@ -11,9 +11,9 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hai Aku. {bn} 🎵
 
-Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [Vckyyy](https://t.me/VckyouuBitch).
+Saya bisa memutar musik di panggilan suara grup Anda. Dikembangkan Oleh [rama](https://t.me/gksukaribett).
 
-Note : Gunakan Bot Ini Dengan Bijak, Jika Terjadi Kendala Silahkan Hubungi [Vckyyy](https://t.me/VckyouuBitch).
+Note : Gunakan Bot Ini Dengan Bijak, Jika Terjadi Kendala Silahkan Hubungi [rama](https://t.me/gksukaribett).
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -22,10 +22,10 @@ Note : Gunakan Bot Ini Dengan Bijak, Jika Terjadi Kendala Silahkan Hubungi [Vcky
                         "🛠 Klik Disini Untuk Penjelasan Printah", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Group", url="https://t.me/LordUserbot_Group"
+                        "✨ Group", url="https://t.me/wavyheartt"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel Info", url="https://t.me/Vckyouuu"
+                        "🔊 Channel Info", url="https://t.me/calonpenyanyi"
                     )]
             ]
         ),
@@ -39,7 +39,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel Info", url="https://t.me/Vckyouuu")
+                        "🔊 Channel Info", url="https://t.me/calonpenyanyi")
                 ]
             ]
         )
