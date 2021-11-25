@@ -22,10 +22,10 @@ Note : Gunakan Bot Ini Dengan Bijak, Jika Terjadi Kendala Silahkan Hubungi [rama
                         "🛠 Klik Disini Untuk Penjelasan Printah", url="https://telegra.ph/text-04-11-2")
                   ],[
                     InlineKeyboardButton(
-                        "✨ Group", url="https://t.me/wavyheartt"
+                        "✨ Group", url="https://t.me/dhanubotgrup"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel Info", url="https://t.me/calonpenyanyi"
+                        "🔊 Channel Info", url="hhttps://t.me/gabuttdoangkakk"
                     )]
             ]
         ),
@@ -39,7 +39,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel Info", url="https://t.me/calonpenyanyi")
+                        "🔊 Channel Info", url="https://t.me/gabuttdoangkakk")
                 ]
             ]
         )
